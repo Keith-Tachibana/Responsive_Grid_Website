@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --default-color: #488CFF;
+  --secondary-color: #FF00FF;
+}
+
+nav {
+  background-color: var(--default-color);
+  height: 80px;
+}
+
+main {
+  background-color: var(--secondary-color);
+  height: 1000px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  max-width: 800px;
+}
+
+.menu > ul > li {
+  list-style-type: none;
+  padding: 0 5px;
+}
+
+.menu > ul > li:hover {
+  cursor: pointer;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--secondary-color);
+}
