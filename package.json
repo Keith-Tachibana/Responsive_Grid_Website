@@ -1,0 +1,21 @@
+{
+  "name": "responsive_grid_website",
+  "version": "1.0.0",
+  "description": "An example of a responsive website using CSS Grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keith-Tachibana/Responsive_Grid_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keith-Tachibana/Responsive_Grid_Website/issues"
+  },
+  "homepage": "https://github.com/Keith-Tachibana/Responsive_Grid_Website#readme",
+  "dependencies": {}
+}
